@@ -1,5 +1,5 @@
 # SetGame
-Implementing the set game by using java language code.
+Implementing the Set game using Java programming.
 
 ## Description:
 
