@@ -1,7 +1,7 @@
 # SetGame
-Implementing the set game, handling java threads and synchronization
+Implementing the set game by using java language code.
 
-_______
+--------
 
 Description: 
 As part of my academic program , I had the opportunity to work on a project that required the implementation of the game SET in Java language. 
